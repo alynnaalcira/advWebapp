@@ -1,0 +1,25 @@
+.display {
+    width:100vw;
+    height:100vh;
+    background-color: #eee;
+    position:fixed;
+    text-align: center;
+    cursor:none;
+}
+
+.controls {
+    width: 40vw;
+    height: 100px;
+    background-color: #1133dd;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+#myImg {
+    position: absolute;
+}
+
+.allImgs {
+    position:absolute; 
+}
